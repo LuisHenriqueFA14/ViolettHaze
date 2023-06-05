@@ -1,0 +1,30 @@
+body {
+	background-color: #08001E;
+	font-family: 'League Gothic', sans-serif;
+}
+
+#content {
+	width: 1000px;
+	height: 500px;
+	margin: auto;
+	margin-top: 45px;
+}
+
+h1 {
+	font-family: sans-serif;
+	color: #CFCFCF;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	/* letter-spacing: 3px; */
+	letter-spacing: 1px;
+	font-weight: 700;
+	/* font-size: 35px; */
+	font-size: 32px;
+	line-height: 48px;
+}
+
+#canva {
+	background-color: black;
+	width: 1000px;
+	height: 500px;
+}
